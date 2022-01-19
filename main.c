@@ -29,7 +29,7 @@ int grid(int currentposition)
 		eaten = 0;
 	}
 	xy[r] = 3;
-	printf("Move Test in C\n");
+	printf("Game Test in C\n");
 	printf("Developed by Jorge\n");
 	printf("XXXXXXXXXX\n");
 	printf("X%d%d%d%d%d%d%d%dX\n", xy[01], xy[11], xy[21], xy[31], xy[41], xy[51], xy[61], xy[71]);
